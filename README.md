@@ -1,12 +1,18 @@
 # Taller de Ruby QA
 
-## Sesión #1
+## Taller #1
 
 - Setup Ruby
 - "Hola Mundo"
 - Printing, Variables y Numeros
-- Funciones
 
+## Taller #2
+
+- Lectura de Variables 
+- Funciones
+- If
+- Loops 
+ 
 ## Lectura Complementaria
 
 * Documentacion Oficial [http://www.ruby-lang.org/es/documentation/]()
