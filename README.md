@@ -11,8 +11,8 @@
 - Flujos de Control
 - Arreglos e Iteraciones
 
-## Taller #3 y #4
-
+[//]: # (Taller #3 y #4)
+<!---
 - Funciones 
 - Clases
 - Bloques
@@ -23,8 +23,8 @@
 
 ## Taller #6
 
-- Repaso 
-
+- Repaso
+--->
   
 ## Lectura Complementaria
 
