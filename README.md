@@ -8,11 +8,24 @@
 
 ## Taller #2
 
-- Lectura de Variables 
-- Funciones
-- If
-- Loops 
- 
+- Flujos de Control
+- Arreglos e Iteraciones
+
+## Taller #3 y #4
+
+- Funciones 
+- Clases
+- Bloques
+
+## Taller #5
+
+- Cucumber
+
+## Taller #6
+
+- Repaso 
+
+  
 ## Lectura Complementaria
 
 * Documentacion Oficial [http://www.ruby-lang.org/es/documentation/]()
