@@ -9,7 +9,8 @@
 ## Taller #2
 
 - Flujos de Control
-- Arreglos e Iteraciones
+- Iteraciones
+- Arreglos
 
 [//]: # (Taller #3 y #4)
 <!---
