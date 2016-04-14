@@ -12,12 +12,13 @@
 - Iteraciones
 - Arreglos
 
-[//]: # (Taller #3 y #4)
-<!---
-- Funciones 
+## Taller #3
+
+- Metodos 
 - Clases
 - Bloques
 
+<!---
 ## Taller #5
 
 - Cucumber
