@@ -14,9 +14,13 @@
 
 ## Taller #3
 
-- Metodos 
+- Metodos
+- Hash
+
+## Taller #4
+
+- Modulos
 - Clases
-- Bloques
 
 <!---
 ## Taller #5
