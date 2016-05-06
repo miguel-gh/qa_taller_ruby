@@ -42,4 +42,5 @@ end
 ``` 
 
 * Escriba una clase que se llame `Biblioteca`, la cual permita almacenar muchos libros.
-
+* La clase Biblioteca se debe inicializar con un "nombre" (nombre de la biblioteca) y un conjunto de libros
+* La clase Biblioteca debe tener un metodo que se llama "buscar_libro", la cual puede buscar un libro por su autor o su titulo.
