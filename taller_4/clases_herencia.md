@@ -53,6 +53,8 @@ Una de las propiedades mas importantes que tienen las clases, es su capacidad de
 
 En terminos simples, yo puedo tomar como base una clase, y generar una nueva, agregando nuevas propiedades y metodos.
 
+### Extendiendo el Comportamiento de una Clase
+
 Por Ejemplo:
 ```
 class Dado
@@ -84,3 +86,40 @@ mi_dado.lanzar_segundo_dado
 # => 6
 
 ```
+
+
+### Modificando el Comportamiento de una Clase
+Por Ejemplo:
+```
+class Dado
+
+  @numero_seleccionado
+
+  def lanzar
+    @numero_seleccionado = 1 + rand(6)
+  end
+
+  def mostar_numero
+    @numero_seleccionado
+  end
+
+end
+
+# Modificando el comportamiento de una clase
+
+class DadoRPG < Dado
+
+  def lanzar
+    @numero_seleccionado = 1 + rand(12)
+  end
+
+end
+
+mi_dado = DadoRPG.new
+mi_dado.lanzar
+# => 10
+mi_dado.mostrar_numero
+# => 10
+
+```
+

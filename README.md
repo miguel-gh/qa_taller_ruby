@@ -19,19 +19,8 @@
 
 ## Taller #4
 
-- Modulos
 - Clases
 
-<!---
-## Taller #5
-
-- Cucumber
-
-## Taller #6
-
-- Repaso
---->
-  
 ## Lectura Complementaria
 
 * Documentacion Oficial [http://www.ruby-lang.org/es/documentation/]()
